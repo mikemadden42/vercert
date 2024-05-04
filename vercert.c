@@ -4,7 +4,7 @@
 #include <curl/curl.h>
 #include <stdio.h>
 
-int main() {
+int main(void) {
     CURL *curl;
     CURLcode res;
 
