@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # cmake build directories
+build
 debug
 release
 
